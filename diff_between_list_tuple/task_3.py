@@ -5,5 +5,5 @@ T = (4, 5, 6, False, ['x', 'y'])
 
 L[2] = 'X'
 print(L)
-T[3] = 'X'
+# T[3] = 'X'
 print(T)
